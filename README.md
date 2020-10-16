@@ -1,9 +1,8 @@
 ### Hi there 👋
 - 😄 Pronouns: he/him
-- 🌱 I’m currently learning Rust, Solidity, WASM
+- 🌱 I’m currently learning Rust, Vyper, WASM
 - 📫 How to reach me: Twitter (@paulmartinmeier)
 - :blue_heart: K8s, Golang, Cloud, and Blockchain!
-- ⚡ Fun fact: I have ten fingers and ten toes!
 
 <!--
 **paulmeier/paulmeier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
