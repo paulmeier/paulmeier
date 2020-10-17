@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 😄 Pronouns: he/him
-- 🌱 I’m currently learning Rust, Vyper, WASM
+- 🌱 I’m currently learning Solidity
 - 📫 How to reach me: Twitter (@paulmartinmeier)
 - :blue_heart: K8s, Golang, Cloud, and Blockchain!
 
