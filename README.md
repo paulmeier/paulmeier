@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 😄 Pronouns: he/him
-- 🌱 I’m currently learning Solidity
+- 🌱 I’m currently learning Emacs Lisp
 - 📫 How to reach me: Twitter (@paulmartinmeier)
 - :blue_heart: K8s, Golang, Cloud, and Blockchain!
 
