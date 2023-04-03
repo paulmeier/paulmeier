@@ -1,8 +1,8 @@
 ### Hi there 👋
 - 😄 Pronouns: he/him
 - 🌱 I’m currently learning Emacs Lisp
-- 📫 How to reach me: Twitter (@paulmartinmeier)
-- :blue_heart: K8s, Golang, Cloud, and Blockchain!
+- 📫 How to reach me: heaving.slaloms-0w@icloud.com
+- :blue_heart: Having my head in the cloud!
 
 <!--
 **paulmeier/paulmeier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
